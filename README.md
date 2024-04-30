@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tynohtender
-- 👀 I’m interested in mobile app and web development 
+- 👀 I’m interested in mobile app and web development and also cybersecurity 
 - 🌱 I’m currently learning at TelOne Center For Learning 
 - 💞️ I’m looking to collaborate on mobile and web development
 - 
